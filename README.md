@@ -1,5 +1,15 @@
 # Coffee Shop Sales Dashboard in Excel
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Key Deliverables](#key-deliverables)
+- [Process](#process)
+- [Dashboard](#dashboard)
+- [Business Insights](#business-insights)
+- [Recommendations](#recommendations)
+
 ## Project Overview
 
 This data analysis project aims to create a centralized and interactive Excel dashboard that provides a comprehensive analysis of coffee shop sales data from 2019 to 2022.
@@ -66,6 +76,34 @@ The dashboard aims to answer the following key questions raised by stakeholders 
 ![CoffeSalesDashboard](https://github.com/user-attachments/assets/f642d155-a7f3-4d5e-b79a-8433d40d13b7)
 
 ## Business Insights
+**Sales Performance**
+- The **highest total sales** were recorded in **2021**, reaching **$13.7k**, driven primarily by **Arabica coffee**.
+- **Arabica sales** show a steady increase over the years, while **Excelsa** has maintained consistent revenue.
 
+**Product Performance**
+- **Excelsa** and **Liberica** are the **most sold coffee types**, with **Liberica** achieving the **highest profit percentage** at approximately **15%**.
+- **Light Roast** is the **most popular roast type**, generating the highest sales.
+- The **2.5 kg size** is the **most purchased product size**, contributing significantly to overall sales.
 
-  
+**Customer Insights**
+- The **majority of sales** are from **non-loyalty card holders**, indicating a need to enhance the loyalty program's effectiveness.
+- The **top 5 customers** based on total sales are **Allis,Brenn,Terri,Nealson and Don**.
+
+**Geographical Trends** 
+- **USA** contributes **79% of total sales**, making it the most significant market:
+  - **Arabica** is the most popular coffe type.
+  - **Light Roast** and **Medium Roast** are the most preferred roast types.
+- **Ireland**:
+  - **Liberica** is the most purchased coffee type.
+  - **Dark Roast** and **Light Roast** are the most popular roast types.
+- **UK**:
+  - **Excelsa** leads sales.
+  - **Light Roast** and **Medium Roast** are the most preferred roast types.
+ 
+## Recommendations 
+Based on the analysis we recommend the following actions:
+- Increase marketing efforts and promotions around **Arabica coffee** in regions showing rising sales trends especially in campaigns tailored to the US market.
+- Ensure consistent stock availibility for **Excelsa** and **Liberica** coffee types as they are among the most sold. Also highlight **high profitability of Liberica** in marketing campaigns to encourage it's sales further.
+- Promote **Light Roast** coffee as the top choice through special offers and continue offering **2.5 kg sizes** and explore additional large-size options.
+- Offer exclusive discounts or rewards for loyalty card users to boost participation, as most sales come from **non-loyalty card holders**.
+- Focus on the **USA market** as 79% of total sales come from this region.
